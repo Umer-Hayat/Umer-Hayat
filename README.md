@@ -35,3 +35,11 @@
 ---
 
 <img align="left" alt="Umer-Hayat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Umer-Hayat&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/umerhayat520
+[facebook]: https://facebook.com/profile.php?id=100010627395127
+[linkedin]: https://linkedin.com/in/umer-hayat-026104187
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
