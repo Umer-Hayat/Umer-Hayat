@@ -6,6 +6,11 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+<br />
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="profile.php?id=100010627395127 | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
